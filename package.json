@@ -1,0 +1,25 @@
+{
+  "name": "share-booster",
+  "version": "4.0.5",
+  "description": "A simple Share Booster in Facebook post Modified By Lorenzo.",
+  "main": "share.js",
+  "scripts": {
+    "start": "node share.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lorenzo",
+    "SHARE-booster",
+    "sharefb",
+    "Facebook Sharev4"
+  ],
+  "author": "Lorenzo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6"
+  }
+}
